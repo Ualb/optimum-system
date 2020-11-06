@@ -1,4 +1,4 @@
-## Script de óptimización de objetivos vs alternativas
+## Script de optimización de objetivos vs alternativas
 
 El algoritmo da una puntuación a las alternativas para el cumplimiento de una 
 serie de objetivos, mejor dicho, este se encarga de valuar las mejores opciones
